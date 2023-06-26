@@ -12,9 +12,13 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
     toc: true
+    toc-location: left
+    toc-title: 'Contents'
+    number-sections: true
+    css: '00_files/style.css'
+    theme: lux
+    highlight-style: zenburn
 
 editor: visual
 

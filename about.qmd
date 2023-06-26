@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+![](00_files/incendio.jpg){.img-incendio fig-align="center" width="15cm"}
 
-```{r}
-1 + 1
-```
+# Incendios Folgoso de 2022
