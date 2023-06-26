@@ -8,6 +8,10 @@ abstract: "Galicia is the northestern region of Spain. Its climate has critical 
 
 # Format options --------------------
 page-layout: full
+number-sections: true
+toc: true
+toc-location: left
+toc-title: 'Contents'
 
 # Code -----------------------------
 code-copy: hover
